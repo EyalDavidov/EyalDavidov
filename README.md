@@ -1,50 +1,62 @@
 ### Hi there, I'm **Eyal Davidov**! 👋
 
-🚀 **Computer Science Student | Aspiring Software Developer & ML Enthusiast**  
+🚀 **Computer Science Student | Aspiring Full-Stack Developer & ML Enthusiast**  
 📍 *BSc Computer Science, Ruppin Academic College (GPA: 96)*  
-💡 Passionate about **Machine Learning, Algorithms, Full-Stack Development & POC Engineering**  
+💡 Passionate about **Web Development, Machine Learning, and Building End-to-End Solutions**
 
 ---
 
 ### 🚀 About Me:
-- 🎯 A **quick learner** with a passion for problem-solving and innovation.
-- 🧠 Interested in **AI, Predictive Models, Data Analysis, and Low-Level Programming**.
-- 🛠 Love working on **challenging projects** and bringing ideas to life from scratch.
-- 🎓 Experienced in **developing ML models, web applications, and system design**.
+- 🎯 A **fast learner** with strong problem-solving skills and high attention to detail.
+- 🧠 Passionate about **AI, Predictive Models, Algorithms, and Low-Level Programming**.
+- 🛠 Enjoy building things from scratch, whether it's a backend service, UI, or a machine learning model.
+- 🌱 Currently expanding my knowledge in **Full-Stack Development**, cloud technologies, and system design.
 
 ---
 
-### 🔧 Tech Stack:
+### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-🛠 **Frameworks & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV, Git, OOP, Multithreading.
+🛠 **Tools & Concepts:** SQLAlchemy, Flask-JWT-Extended, REST APIs, Postman, Git, OOP, Context API, Axios, Vite, ESLint, Prettier, CORS, Python-dotenv, Responsive Design.
 
 ---
 
-### 🔬 Featured Projects:
-- **🔍 ML Cancer Prediction Model:** Built and evaluated multiple ML algorithms for predicting cancer probability.
-- **📊 House Price Prediction:** Developed a machine learning model for real estate price forecasting.
-- **🎮 Hand-Gesture Volume Control:** Implemented OpenCV & MediaPipe for real-time volume control via hand gestures.
-- **🛒 E-Commerce GUI App (C#):** Designed and developed a functional shopping app.
-- **💳 Credit Card Expense Tracker (Web App):** Built a finance management tool using HTML, CSS, and JavaScript.
+### 🧠 Featured Projects
 
-📌 **Check out my repositories to see more of my work!**
+- **🗂️ Task Manager App (Full-Stack):**  
+  Built from scratch using React (TypeScript), Flask (Python), and MySQL.  
+  Includes user authentication (JWT), task/subtask management, filtering & responsive UI.
+
+- **🔍 ML Cancer Prediction Model:**  
+  Built and evaluated various machine learning models for predicting cancer probability using Scikit-learn, achieving over 93% accuracy.
+
+- **📊 House Price Prediction:**  
+  Created regression-based predictive model to estimate property values based on historical data.
+
+- **🎮 Hand-Gesture Volume Control:**  
+  Combined OpenCV + MediaPipe to detect hand position and dynamically control system volume in real-time.
+
+- **🛒 E-Commerce GUI App (C#):**  
+  Desktop shopping system using WinForms & object-oriented architecture.
+
+- **💳 Credit Card Expense Tracker (Web App):**  
+  Built a client-side budgeting app with HTML, CSS, and JavaScript.
 
 ---
 
 ### 📫 Let's Connect:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyal-davidov/)  
 📩 **Email:** eyaldavidov@outlook.com  
 
 ---
 
 💡 *"Striving for innovation and excellence in every line of code."* 🚀
-
